@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/Sameeksha2323/Sameeksha2323/blob/main/Banner1.jpg" alt="logo" />
+</div>
 <h1 align="center">Hi 👋, I'm Sameeksha Gupta</h1>
 <h3 align="center">A 3rd-year B. Tech Computer Science & Mathematics student with a passion for Software Development.</h3>
 
