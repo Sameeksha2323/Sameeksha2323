@@ -2,7 +2,7 @@
   <img src="https://github.com/Sameeksha2323/Sameeksha2323/blob/main/Banner1.jpg" alt="logo" />
 </div>
 <h1 align="center">Hi 👋, I'm Sameeksha Gupta</h1>
-<h3 align="center">A 3rd-year B. Tech Computer Science & Mathematics student with a passion for Software Development.</h3>
+<h3 align="center">A 4th-year B. Tech Computer Science & Mathematics student with a passion for Software Development.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
@@ -26,10 +26,7 @@
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="margin: 200px;"/>
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="margin: 200px;"/>
-  </a> 
+  </a>  
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60" style="margin: 200px;"/>
   </a> 
